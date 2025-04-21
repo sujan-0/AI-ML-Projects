@@ -96,7 +96,7 @@ The dataset contains **1143 rows** and **13 columns** describing various physico
 
 ## 📸 Sample Output
 
-![Correlation Heatmap](heatmap_beautiful.png)
+![Correlation Heatmap](Look on the WineDatasetsFndings.pdf)
 
 ---
 
