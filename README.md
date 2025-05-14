@@ -25,15 +25,15 @@ This repository showcases my hands-on work and learning progress in the fields o
 
 ---
 
-## 🖼️ Deep Learning (In Progress)
+## 🖼️ Deep Learning 
 
 - **CNN-based Image Classification** using TensorFlow & Keras  
-- **Model Architectures**: Understanding and implementation of LeNet, VGG (ongoing)  
+- **Model Architectures**: Understanding and implementation of LeNet, VGG  
 - **Image Preprocessing**: Normalization, Data Augmentation  
 
 ---
 
-## 🗣️ Natural Language Processing (In Progress)
+## 🗣️ Natural Language Processing (Sentiment Analysis)
 
 - **Text Preprocessing**: Tokenization, stopword removal, lemmatization  
 - **Feature Extraction**: TF-IDF, Word Embeddings (Word2Vec, GloVe)  
